@@ -67,8 +67,12 @@
 
 ### タイトル画面
 
-![Title](Images/title.png)
+![Title](png/title.png)
 
 ### ゲーム画面
 
-![Game](Images/game.png)
+![Game](png/game.png)
+
+### ボス画面
+
+![Game](png/boss.png)
